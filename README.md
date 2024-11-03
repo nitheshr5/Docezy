@@ -12,8 +12,4 @@ Doczy is a document management system that allows users to upload documents, sto
 - Docker and Docker Compose
 - AWS account with an S3 bucket
 
-### Steps to Run
-1. Clone this repository:
-   ```bash
-   git clone <your_repo_url>
-   cd Document_Management
+
